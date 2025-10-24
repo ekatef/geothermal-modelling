@@ -22,7 +22,7 @@ US:
 
 run:
   name: "US_2035_BBB" # use this to keep track of runs with different settings
-  sector_name: "US_2025_BBB"
+  sector_name: "US_2035_BBB"
   shared_cutouts: true  # set to true to share the default cutout(s) across runs
                         # Note: value false requires build_cutout to be enabled
 
