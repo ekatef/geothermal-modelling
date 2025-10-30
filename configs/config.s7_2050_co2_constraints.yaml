@@ -52,3 +52,8 @@ costs:
   version: v0.11.0
   financial_case: "Market"
   scenario: "Moderate"
+
+sector:
+  # taking the target value 2626 TWh originated from Energy Outlook 2050
+  # the current reference is 383 TWh
+  scale_heat_load: 6.8
